@@ -1,7 +1,4 @@
 # Story-Telling-chtabot
-Certainly! Here’s a description you can use for your GitHub repository for a chatbot developed using fine-tuning on a dataset stored in an Excel file.
-
----
 
 # Chatbot with Fine-Tuning using Excel Dataset
 
