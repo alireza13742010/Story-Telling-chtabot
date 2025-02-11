@@ -48,5 +48,3 @@ print(result)  # Outputs a response based on fine-tuning
 ## Results 
 ![Story_telling_chatbot](https://github.com/user-attachments/assets/e848e12c-ff1d-4e5a-89be-f235b8dc99e9)
 
-## Notic
- To get access to the dataset and trained model please contact us: linkedin.com/in/alireza-tavakolian-6a23161b4
